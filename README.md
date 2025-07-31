@@ -1,13 +1,13 @@
-# Data Science Ecosystem Notebook
-This repository contains the final assignment notebook for the "Data Science Tools and Ecosystem" module.
+# Data Science Ecosystem Notebook  
 
-The notebook demonstrates:
+This repository contains the final assignment for the **Data Science Tools and Ecosystem** module.  
 
-* An overview of common data science languages, libraries, and tools
-* Examples of arithmetic operations in Python
-* Use of Markdown for documentation and code cells for computation
-* Structured formatting following best practices for reproducibility
+The notebook covers:  
+- Popular **data science languages**  
+- Common **libraries and tools**  
+- Example **Python arithmetic operations**  
+- Use of **Markdown and Jupyter cells**  
 
-The notebook is saved as:
-
-* DataScienceEcosystem.ipynb
+📄 **View the notebook here:**  
+- [Direct GitHub Link](DataScienceEcosystem.ipynb)  
+- [Render in nbviewer](https://nbviewer.org/github/LSofiaSolis/DataScienceEcosystem/blob/main/DataScienceEcosystem.ipynb)  
